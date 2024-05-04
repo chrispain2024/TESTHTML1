@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../CDG2"
+		},
+		{
+			"path": "../MASTER2"
+		},
+		{
+			"path": "../MASTER2 - Copie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MASTER2"
+	}
+}
